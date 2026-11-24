@@ -22,6 +22,5 @@ public class ConnectionUtil {
             e.printStackTrace();
             return null;
         }
-
     }
 }
