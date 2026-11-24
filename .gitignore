@@ -37,5 +37,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+src/main/resources/mongodb.properties
 src/main/resources/sqldb.properties
 .idea/dataSources.xml
+
+src/main/resources/mongodb.properties
