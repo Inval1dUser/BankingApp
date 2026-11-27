@@ -41,3 +41,4 @@ src/main/resources/sqldb.properties
 .idea/dataSources.xml
 
 ### MongoDB ###
+src/main/resources/mongodb.properties
